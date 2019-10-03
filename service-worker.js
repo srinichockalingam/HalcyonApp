@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/halcyon-repo/precache-manifest.35615baf1e8487dd845b0a8cd8989304.js"
+  "/halcyon-repo/precache-manifest.b8806cc4b4a127104c6061c34ed15df3.js"
 );
 
 self.addEventListener('message', (event) => {
